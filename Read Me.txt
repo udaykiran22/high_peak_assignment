@@ -1,0 +1,3 @@
+high peak goodies problem solution
+
+goto inputfile reader add testcase number to be executed and run it in python3 by mentioning pathfile.
